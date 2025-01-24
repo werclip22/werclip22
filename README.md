@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @werclip22
 - 👀 I'm interested in **AI**, and how to make money with it
 - 🌱 I'm currently learning **AI image, Video generator**
-- 💞️ I'm looking to collaborate on **AI master**
+- 💞️ I'm looking to collaborate on **AI Assistant Generator**
 - 📫 How to reach me: **br22.contact@gmail.com**
 
 <!---
