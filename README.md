@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @werclip22
+- 👋 Hi, I'm @blackridder22
 - 👀 I'm interested in **AI**, and how to make money with it
 - 🌱 I'm currently learning **AI image, Video generator**
 - 💞️ I'm looking to collaborate on **AI Assistant Generator**
